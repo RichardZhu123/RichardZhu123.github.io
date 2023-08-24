@@ -10,7 +10,6 @@ email: ryzhu@princeton.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi! I'm a masters student at Princeton University. Under the guidance of Karthik Narasimhan and Danqi Chen, I've recently explored topics in natural language processing. In my free time, I enjoy running (training for my first half-marathon!), learning the guitar, and reading books.
 footer_text: >
-  &copy; Copyright 2023 Richard Zhu.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
@@ -122,9 +121,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: blog # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
+blog_description: Welcome to the blog!
 permalink: /blog/:year/:title/
 
 # Pagination
