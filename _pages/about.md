@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Richard Zhu
+title: about
 permalink: /
 subtitle: MEng, <a href='https://www.princeton.edu'>Princeton University</a>.
 
