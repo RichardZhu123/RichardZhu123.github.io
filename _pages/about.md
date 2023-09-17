@@ -16,3 +16,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! I'm a masters student at Princeton University. Under the guidance of [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn) and [Danqi Chen](https://www.cs.princeton.edu/~danqic/), I've recently explored topics in natural language processing. In my free time, I enjoy running (training for my first half-marathon!), learning the guitar, and reading books.
+[GitHub](https://github.com/RichardZhu123)
+[Twitter](https://twitter.com/therichardzhu)
+[LinkedIn](https://www.linkedin.com/in/richardzhu01)
